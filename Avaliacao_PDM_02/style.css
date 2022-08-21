@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    background-image: url("http://s.glbimg.com/es/ge/f/original/2014/04/06/foto_20140406001515_1.jpg");
+    background-position: center; 
+    background-size: cover;
+  }
+  h3,h4,p{
+    color: whitesmoke;
+  }
